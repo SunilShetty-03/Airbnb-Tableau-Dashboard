@@ -40,5 +40,6 @@ Income Forecasting: Plan maintenance or marketing during low-income weeks
 Inventory Planning: Focus on 1-2 bedroom units based on distribution trends.
 
 Dashboard:
+https://github.com/SunilShetty-03/Airbnb-Tableau-Dashboard/blob/main/Snapshot%20of%20Airbnb%20Dashboard.png
 
 
